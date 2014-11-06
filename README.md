@@ -1,4 +1,4 @@
-bootstrap3-datepicker
+pickadate
 ============
 
 Meteor packaging of amsul/pickadate.js  support

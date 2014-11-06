@@ -1,5 +1,5 @@
 Package.describe({
-  name: "riamkevingreen:meteor-pickadate",
+  name: "iamkevingreen:meteor-pickadate",
   git: "https://github.com/iamkevingreen/meteor-pickadate.git",
   summary: "Meteor packaging of amsul/pickadate.js",
   "version": "3.4.5"
