@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Package.onUse(function (api) {
-  api.versionsFrom('0.9.0');
+  api.versionsFrom('1.0.0');
   api.use('jquery', 'client');
 
   api.addFiles('pickadate.js/lib/picker.js', 'client');
