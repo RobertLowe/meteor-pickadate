@@ -11,7 +11,7 @@ Example
 ============
 In your handlebars template:
 
-    <input type="text" class="form-control" class="datepicker">
+    <input type="text" class="form-control datepicker">
 
 In client-side JS code:
 
