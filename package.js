@@ -12,7 +12,7 @@ Package.onUse(function (api) {
   api.addFiles('pickadate.js/lib/picker.js', 'client');
   api.addFiles('pickadate.js/lib/picker.date.js', 'client');
   api.addFiles('pickadate.js/lib/picker.time.js', 'client');
-  api.addFiles('pickadate.js/lib/themes/default.css', 'client');
-  api.addFiles('pickadate.js/lib/themes/default.date.css', 'client');
-  api.addFiles('pickadate.js/lib/themes/default.time.css', 'client');
+  api.addFiles('pickadate.js/lib/themes/classic.css', 'client');
+  api.addFiles('pickadate.js/lib/themes/classic.date.css', 'client');
+  api.addFiles('pickadate.js/lib/themes/classic.time.css', 'client');
 });
