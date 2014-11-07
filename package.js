@@ -2,7 +2,7 @@ Package.describe({
   name: "iamkevingreen:meteor-pickadate",
   git: "https://github.com/iamkevingreen/meteor-pickadate.git",
   summary: "Meteor packaging of amsul/pickadate.js",
-  "version": "3.4.5"
+  "version": "3.4.6"
 });
 
 Package.onUse(function (api) {
